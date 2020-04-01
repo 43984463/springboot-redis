@@ -1,0 +1,1 @@
+# springboot 整合redis实现订阅发布模式。
